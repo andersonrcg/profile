@@ -169,7 +169,7 @@ Desde de quando comecei a trabalhar com desenvolvimento, já trabalhei com porta
 
   <div>
     <a href="https://nextjs.org/" target="_blank"> 
-      <img src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png" alt="Next.Js" width="15" height="15" />
+      <img src="images/nextjs.png" alt="Next.Js" width="15" height="15" />
     </a> NextJs
   </div>
 
