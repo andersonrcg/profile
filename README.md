@@ -5,6 +5,8 @@ Sempre buscando as melhores soluções para os problemas descritos em projetos.
 
 Desde de quando comecei a trabalhar com desenvolvimento, já trabalhei com portais, e-commerces, aplicativos, sistemas de gestões, sistemas para coleta de dados, sistema de eventos online, integrações com outros sistemas e sites estáticos.
 
+Atualmente estou trabalhando com equipes de desenvolvedores utilizando a metodologia ágil para desenvolver uma plataforma que utiliza o conceito de microsserviços.
+
 ## Conhecimentos adquiridos até o momento
 
 <div id="list-knowledge">
@@ -110,6 +112,12 @@ Desde de quando comecei a trabalhar com desenvolvimento, já trabalhei com porta
     </a> MySql
   </div>
 
+  <div>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="images/postgresql.svg" alt="mysql" width="15" height="15"/> 
+    </a> PostgreSQL
+  </div>
+
    <div>
     <a href="https://www.mongodb.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/> 
@@ -171,6 +179,12 @@ Desde de quando comecei a trabalhar com desenvolvimento, já trabalhei com porta
     <a href="https://nextjs.org/" target="_blank"> 
       <img src="images/nextjs.png" alt="Next.Js" width="15" height="15" />
     </a> NextJs
+  </div>
+
+  <div>
+    <a href="https://nestjs.com/" target="_blank"> 
+      <img src="images/nestjs.svg" alt="Nest.Js" width="15" height="15" />
+    </a> NestJs
   </div>
 
   <div>
